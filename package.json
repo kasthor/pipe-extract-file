@@ -1,0 +1,15 @@
+{
+  "name": "pipe-extract-file",
+  "version": "1.0.0",
+  "description": "Extract a single file from zip using a pipe supporting tar zip gz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tar-stream": "^1.6.1",
+    "unzipper": "^0.9.3"
+  }
+}
